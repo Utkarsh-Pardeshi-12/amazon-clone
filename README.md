@@ -15,28 +15,10 @@ A simple front-end clone of the Amazon India homepage built using **HTML** and *
 
 ---
 
-## 📁 Project Structure
-
-amazon-clone/
-│
-├── index.html # Main HTML structure
-├── style.css # CSS styling for layout and design
-└── images/ # Folder containing image assets
-
----
-
 ## 🌐 Live Demo
 
 Click below to view the hosted version on GitHub Pages:
 🔗 https://your-username.github.io/amazon-clone/
-
----
-
-## 🧰 Tech Stack
-Tech	Description
-HTML5	Markup language for page structure
-CSS3	Styling and layout
-Git & GitHub	Version control and hosting
 
 ---
 
