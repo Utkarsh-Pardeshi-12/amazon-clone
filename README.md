@@ -2,8 +2,6 @@
 
 A simple front-end clone of the Amazon India homepage built using **HTML** and **CSS**. This project focuses on responsive layout, UI structuring, and styling — perfect for beginners looking to understand how large e-commerce websites are built.
 
-![Amazon Clone Banner](https://via.placeholder.com/1200x400.png?text=Amazon+Clone+Homepage) <!-- You can replace this with a real screenshot later -->
-
 ---
 
 ## 🔍 Features
@@ -18,7 +16,7 @@ A simple front-end clone of the Amazon India homepage built using **HTML** and *
 ## 🌐 Live Demo
 
 Click below to view the hosted version on GitHub Pages:
-🔗 https://your-username.github.io/amazon-clone/
+🔗 https://utkarsh-pardeshi-12.github.io/amazon-clone/
 
 ---
 
